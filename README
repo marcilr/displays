@@ -11,3 +11,5 @@ displays
 links.txt
   Display related links
 
+manifest
+  Manifest file for use by resync script
